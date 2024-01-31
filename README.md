@@ -1,5 +1,7 @@
 Hands on Machine Learning Project
 
+This is my project for the subject of Hands on Machine Learning
+
 Letter Recognition 
    The objective is to identify each of a large number of black-and-white
    rectangular pixel displays as one of the 26 capital letters in the English
