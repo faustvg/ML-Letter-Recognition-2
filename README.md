@@ -2,7 +2,10 @@ Hands on Machine Learning Project
 
 This is my project for the subject of Hands on Machine Learning
 
+
 Letter Recognition 
+
+
    The objective is to identify each of a large number of black-and-white
    rectangular pixel displays as one of the 26 capital letters in the English
    alphabet.  The character images were based on 20 different fonts and each
@@ -13,5 +16,6 @@ Letter Recognition
    typically train on the first 16000 items and then use the resulting model
    to predict the letter category for the remaining 4000.  See the article
    cited above for more details.
+
    
 https://archive.ics.uci.edu/dataset/59/letter+recognition
