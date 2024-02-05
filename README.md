@@ -1,4 +1,4 @@
-Hands on Machine Learning Project
+# Hands on Machine Learning - Final Project
 
 This is my project for the subject of Hands on Machine Learning
 
